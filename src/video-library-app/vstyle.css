@@ -1,0 +1,6 @@
+
+.home-theme{
+    background: url("/video-home.jpg") no-repeat center center fixed;
+    background-size: cover;
+    background-position: fixed;
+}

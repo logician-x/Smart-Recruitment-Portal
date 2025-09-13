@@ -1,0 +1,79 @@
+{
+  "admin": [
+    {
+      "id": "1",
+      "uname": "nageshwar",
+      "password": "nagesh@9579",
+      "phone": "9049454429",
+      "email": "nageshwarpatwari2001@gmail.com"
+    },
+    {
+      "id": "2",
+      "uname": "manmath",
+      "password": "1234",
+      "phone": "9579875580",
+      "email": "nagu@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "uname": "nagesh",
+      "phone": "9049454429",
+      "password": "nag@9579",
+      "email": "nagesh@gmail.com"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "category-id": "1",
+      "name": "Java"
+    },
+    {
+      "id": "2",
+      "category-id": "2",
+      "name": "React"
+    },
+    {
+      "id": "3",
+      "category-id": "3",
+      "name": ".Net"
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "video_id": "1",
+      "category_id": 1,
+      "url": "https://www.youtube.com/embed/io2TciOcF2Y",
+      "title": "Java Bean With Natraj Sir",
+      "description": "this video demonstrates the java bean",
+      "likes": "22",
+      "dislikes": "1",
+      "comments": "Post more videos"
+    },
+    {
+      "id": "2",
+      "video_id": "2",
+      "category_id": 3,
+      "url": "https://www.youtube.com/embed/0u9k-kOR3KE",
+      "title": ".NET",
+      "description": "frequently asked .NET questions",
+      "likes": "400",
+      "dislikes": "2",
+      "comments": "Nice Video"
+    },
+    {
+      "id": "f847",
+      "video_id": 3,
+      "category_id": 2,
+      "url": "https://www.youtube.com/embed/p6cXj0C4d9A",
+      "title": "Introduction to ReactJS",
+      "description": "React Introduction from Sudhakar sharma",
+      "likes": "5000",
+      "dislikes": "200",
+      "comments": "This is a very nice video"
+    }
+  ]
+}

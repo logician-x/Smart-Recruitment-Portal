@@ -1,0 +1,13 @@
+{
+    "name":"OnePlus 13R",
+    "image":"../../public/mobile.png",
+    "description":" Smarter with OnePlus AI | Lifetime Display Warranty (12GB RAM, 256GB Storage Nebula Noir)",
+    "price":39999,
+    "Brand":"OnePlus",
+    "Operating System":	"OxygenOS, Android 15",
+    "RAM Memory":12,
+    "Installed Size":{
+        "CPU Model":"Snapdragon 8 Gen3",
+        "CPU Speed":"3.3 GHz"
+    }
+}

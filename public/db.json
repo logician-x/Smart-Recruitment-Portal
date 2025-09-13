@@ -1,0 +1,51 @@
+{
+    "admin":[
+        {
+            "id":"1",
+            "uname":"nageshwar",
+            "password":"nagesh@9579",
+            "phone":"9049454429",
+            "email":"nageshwarpatwari2001@gmail.com"
+        }
+    ],
+    
+    "user":[
+        {
+            "id":"1",
+            "uname":"nagesh",
+            "phone":"9049454429",
+            "password":"nag@9579",
+            "email":"nagesh@gmail.com"
+        }
+    ],
+    "categories":[
+        {
+            "id":"1",
+            "category-id":"1",
+            "name":"Java"
+        },
+        {
+             "id":"2",
+            "category-id":"2",
+            "name":"React"
+        },
+        {
+             "id":"3",
+            "category-id":"3",
+            "name":".Net"
+        }
+    ],
+    "videos":[
+        {
+            "id":"1",
+            "video_id":"1",
+            
+            "url":"https://www.youtube.com/embed/io2TciOcF2Y",
+            "title":"Java Bean With Natraj Sir",
+            "description":"this video demonstrates the java bean",
+            "likes":"22",
+            "dislikes":"1",
+            "comments":"Post more videos"
+        }
+    ]
+}
